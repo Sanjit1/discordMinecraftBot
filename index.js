@@ -22,7 +22,7 @@ client.on('message', message => {
     if (message.channel.id === '749671462629015592') {
         if (message.content.startsWith("m?")) {
 
-        } else if (message.content.startsWith("m?")) {
+        } else if (message.content.startsWith("m?start")) {
 
         } else if (message.content.startsWith("m?")) {
 
